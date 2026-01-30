@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Alive – Privacy Policy</title>
+  <meta name="description" content="Privacy Policy for the Alive app." />
+  <style>
+    :root{
+      --bg:#fafaf8;
+      --text:#1c1c1e;
+      --muted:#6c6c70;
+      --link:#2e7d6f;
+      --card:#ffffff;
+      --border:#e6e6e8;
+    }
+    body{
+      margin:0;
+      font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+      background:var(--bg);
+      color:var(--text);
+      line-height:1.6;
+    }
+    .container{
+      max-width: 820px;
+      margin: 0 auto;
+      padding: 32px 20px 48px;
+    }
+    header{
+      margin-bottom: 22px;
+    }
+    h1{
+      font-size: 28px;
+      margin: 0 0 8px 0;
+      letter-spacing:-0.01em;
+    }
+    .updated{
+      color:var(--muted);
+      font-size: 14px;
+      margin:0;
+    }
+    .card{
+      background:var(--card);
+      border:1px solid var(--border);
+      border-radius: 14px;
+      padding: 18px 18px 6px;
+      box-shadow: 0 1px 0 rgba(0,0,0,0.02);
+    }
+    h2{
+      font-size: 18px;
+      margin-top: 22px;
+      margin-bottom: 8px;
+    }
+    p, li{
+      font-size: 16px;
+    }
+    ul{
+      margin-top: 8px;
+      margin-bottom: 14px;
+      padding-left: 18px;
+    }
+    a{ color:var(--link); text-decoration:none; }
+    a:hover{ text-decoration:underline; }
+    .foot{
+      margin-top: 28px;
+      color:var(--muted);
+      font-size: 14px;
+    }
+    .note{
+      background: rgba(46,125,111,0.08);
+      border: 1px solid rgba(46,125,111,0.18);
+      border-radius: 12px;
+      padding: 12px 14px;
+      margin-top: 14px;
+      margin-bottom: 6px;
+      font-size: 15px;
+    }
+    code{
+      background:#f2f2f4;
+      padding: 1px 6px;
+      border-radius: 6px;
+      font-size: 0.95em;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="container">
+    <header>
+      <h1>Alive – Privacy Policy</h1>
+      <p class="updated"><strong>Last updated:</strong> 30 January 2026</p>
+    </header>
+
+    <div class="card">
+      <p>
+        Alive respects your privacy. This Privacy Policy explains how the Alive app (“the App”) handles
+        information when you use it.
+      </p>
+
+      <div class="note">
+        <strong>In short:</strong> No account is required. The App does not track you in the background.
+        Location is shared only when you choose to use <em>Help Now</em>.
+      </div>
+
+      <h2>Overview</h2>
+      <p>
+        Alive is designed to work with minimal data and maximum respect for your privacy.
+        The App does <strong>not</strong> require an account, does <strong>not</strong> sell your data,
+        and does <strong>not</strong> share your personal data with advertisers.
+      </p>
+
+      <h2>Information You Provide</h2>
+      <p>
+        Alive stores the following information <strong>locally on your device</strong> (not on our servers):
+      </p>
+      <ul>
+        <li>Your name (if you choose to enter it)</li>
+        <li>Emergency contact email address</li>
+        <li>Check-in preferences (such as frequency)</li>
+      </ul>
+      <p>This information is used only to provide the core functionality of the App.</p>
+
+      <h2>Location Data</h2>
+      <p>
+        Alive accesses your location <strong>only when you explicitly tap “Help Now.”</strong>
+      </p>
+      <ul>
+        <li>Location is used to include a map link in an email to your emergency contact.</li>
+        <li>Location is <strong>not</strong> collected, stored, or shared at any other time.</li>
+        <li>Alive does <strong>not</strong> track your location in the background.</li>
+      </ul>
+      <p>
+        If location access is unavailable or denied, the App will still allow you to send a help email without
+        location information.
+      </p>
+
+      <h2>Email Communication</h2>
+      <p>
+        When you use features such as missed check-in alerts or “Help Now”:
+      </p>
+      <ul>
+        <li>The App opens your device’s email composer.</li>
+        <li>Emails are sent <strong>only after you explicitly confirm sending</strong>.</li>
+        <li>Alive itself does not send emails automatically or silently.</li>
+      </ul>
+      <p>Alive does not store copies of sent emails.</p>
+
+      <h2>Crash Reporting</h2>
+      <p>
+        Alive may use crash reporting tools (such as Firebase Crashlytics) to help improve app stability.
+      </p>
+      <ul>
+        <li>Crash reports may include technical information about crashes (for example, device and OS details).</li>
+        <li>No personal message content or location history is collected for this purpose.</li>
+        <li>Crash reporting is used only to improve reliability and performance.</li>
+      </ul>
+
+      <h2>Data Storage</h2>
+      <ul>
+        <li>All settings and preferences are stored locally on your device.</li>
+        <li>Alive does not maintain user accounts or user profiles.</li>
+        <li>The App does not require cloud storage for core functionality.</li>
+      </ul>
+
+      <h2>Data Sharing</h2>
+      <p>
+        Alive does <strong>not</strong> sell personal data and does <strong>not</strong> share personal data with
+        advertisers. Data is shared only when you explicitly choose to contact your emergency contact.
+      </p>
+
+      <h2>Children’s Privacy</h2>
+      <p>
+        Alive is not specifically directed at children under the age of 13. The App does not knowingly collect
+        personal information from children.
+      </p>
+
+      <h2>Your Control</h2>
+      <p>You are always in control of your data:</p>
+      <ul>
+        <li>You can edit or remove your emergency contact at any time.</li>
+        <li>You can revoke location access in iOS Settings.</li>
+        <li>You can stop using the App at any time.</li>
+      </ul>
+
+      <h2>Changes to This Policy</h2>
+      <p>
+        This Privacy Policy may be updated if the App’s functionality changes. Any updates will be reflected in
+        the App and/or App Store listing.
+      </p>
+
+      <h2>Contact</h2>
+      <p>
+        If you have questions about this Privacy Policy or the App, you may contact:
+      </p>
+      <p>
+        <strong>Developer:</strong> Trond Hatlevik<br />
+        <strong>App:</strong> Alive<br />
+        <strong>Email:</strong> <a href="mailto:support@aliveapp.no">support@aliveapp.no</a>
+      </p>
+
+      <p class="foot">
+        If you are in immediate danger, contact local emergency services.
+      </p>
+    </div>
+
+    <p class="foot">
+      © <span id="year"></span> Alive. All rights reserved.
+    </p>
+  </div>
+
+  <script>
+    document.getElementById("year").textContent = new Date().getFullYear();
+  </script>
+</body>
+</html>
